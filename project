@@ -1,0 +1,49 @@
+<NotepadPlus>
+    <Project name="Project Name">
+        <Folder name="2048">
+            <Folder name="js">
+                <File name="js\animframe_polyfill.js" />
+                <File name="js\application.js" />
+                <File name="js\bind_polyfill.js" />
+                <File name="js\classlist_polyfill.js" />
+                <File name="js\game_manager.js" />
+                <File name="js\grid.js" />
+                <File name="js\html_actuator.js" />
+                <File name="js\keyboard_input_manager.js" />
+                <File name="js\local_storage_manager.js" />
+                <File name="js\tile.js" />
+            </Folder>
+            <Folder name="meta">
+                <File name="meta\apple-touch-icon.png" />
+                <File name="meta\apple-touch-startup-image-640x1096.png" />
+                <File name="meta\apple-touch-startup-image-640x920.png" />
+            </Folder>
+            <Folder name="style">
+                <Folder name="fonts">
+                    <File name="style\fonts\clear-sans.css" />
+                    <File name="style\fonts\ClearSans-Bold-webfont.eot" />
+                    <File name="style\fonts\ClearSans-Bold-webfont.svg" />
+                    <File name="style\fonts\ClearSans-Bold-webfont.woff" />
+                    <File name="style\fonts\ClearSans-Light-webfont.eot" />
+                    <File name="style\fonts\ClearSans-Light-webfont.svg" />
+                    <File name="style\fonts\ClearSans-Light-webfont.woff" />
+                    <File name="style\fonts\ClearSans-Regular-webfont.eot" />
+                    <File name="style\fonts\ClearSans-Regular-webfont.svg" />
+                    <File name="style\fonts\ClearSans-Regular-webfont.woff" />
+                </Folder>
+                <File name="style\helpers.scss" />
+                <File name="style\main.css" />
+                <File name="style\main.scss" />
+            </Folder>
+            <File name=".gitignore" />
+            <File name=".jshintrc" />
+            <File name="CONTRIBUTING.md" />
+            <File name="favicon.ico" />
+            <File name="index.html" />
+            <File name="LICENSE.txt" />
+            <File name="Rakefile" />
+            <File name="README.md" />
+            <Folder name="images" />
+        </Folder>
+    </Project>
+</NotepadPlus>
